@@ -1,30 +1,12 @@
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mmvne/mmvne/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/mmvne/mmvne/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/mmvne/mmvne/output/github-contribution-grid-snake.svg" width="80%"
-    />
-  </picture>
-</p>
 
 <br>
 
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <br>
   <img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
   <br>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
@@ -43,7 +25,6 @@
   <br>
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-FF9900?style=flat&logo=intellij%20idea&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
   <br>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
