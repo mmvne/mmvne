@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/mmvne?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=mmvne&theme=buefy&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@mmvne's github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mmvne&show_icons=true&theme=buefy" width="45%" alt="@mmvne's github-readme-stats">
   </a>
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmvne&theme=buefy&layout=compact" width="32.1%"/> 
