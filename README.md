@@ -30,11 +30,6 @@
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-FF9900?style=flat&logo=intellij%20idea&logoColor=white">
   <br>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
-  <img alt="AWS EC2" src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
-  <img alt="AWS EKS" src="https://img.shields.io/badge/EKS-FF9900?style=flat&logo=amazoneks&logoColor=white">
-  <img alt="AWS RDS" src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white">
-  <img alt="AWS Route 53" src="https://img.shields.io/badge/Route 53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white">
 </p>
 
 <br> 
